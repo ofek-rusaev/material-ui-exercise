@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/ofek-rusaev/material-ui-exercise/static/css/main.6c774188.chunk.css",
-    "main.js": "/ofek-rusaev/material-ui-exercise/static/js/main.a2cf3dfa.chunk.js",
-    "main.js.map": "/ofek-rusaev/material-ui-exercise/static/js/main.a2cf3dfa.chunk.js.map",
-    "runtime-main.js": "/ofek-rusaev/material-ui-exercise/static/js/runtime-main.0cf5fc19.js",
-    "runtime-main.js.map": "/ofek-rusaev/material-ui-exercise/static/js/runtime-main.0cf5fc19.js.map",
-    "static/js/2.59b0eca5.chunk.js": "/ofek-rusaev/material-ui-exercise/static/js/2.59b0eca5.chunk.js",
-    "static/js/2.59b0eca5.chunk.js.map": "/ofek-rusaev/material-ui-exercise/static/js/2.59b0eca5.chunk.js.map",
-    "index.html": "/ofek-rusaev/material-ui-exercise/index.html",
-    "precache-manifest.e948dc25f24410c9480d96a92e69a4c8.js": "/ofek-rusaev/material-ui-exercise/precache-manifest.e948dc25f24410c9480d96a92e69a4c8.js",
-    "service-worker.js": "/ofek-rusaev/material-ui-exercise/service-worker.js",
-    "static/css/main.6c774188.chunk.css.map": "/ofek-rusaev/material-ui-exercise/static/css/main.6c774188.chunk.css.map",
-    "static/js/2.59b0eca5.chunk.js.LICENSE.txt": "/ofek-rusaev/material-ui-exercise/static/js/2.59b0eca5.chunk.js.LICENSE.txt"
+    "main.css": "/material-ui-exercise/static/css/main.2e470b86.chunk.css",
+    "main.js": "/material-ui-exercise/static/js/main.a257c31f.chunk.js",
+    "main.js.map": "/material-ui-exercise/static/js/main.a257c31f.chunk.js.map",
+    "runtime-main.js": "/material-ui-exercise/static/js/runtime-main.1021623c.js",
+    "runtime-main.js.map": "/material-ui-exercise/static/js/runtime-main.1021623c.js.map",
+    "static/js/2.59b0eca5.chunk.js": "/material-ui-exercise/static/js/2.59b0eca5.chunk.js",
+    "static/js/2.59b0eca5.chunk.js.map": "/material-ui-exercise/static/js/2.59b0eca5.chunk.js.map",
+    "index.html": "/material-ui-exercise/index.html",
+    "precache-manifest.4cbca8ec9e97ee0635bab27812f6d072.js": "/material-ui-exercise/precache-manifest.4cbca8ec9e97ee0635bab27812f6d072.js",
+    "service-worker.js": "/material-ui-exercise/service-worker.js",
+    "static/css/main.2e470b86.chunk.css.map": "/material-ui-exercise/static/css/main.2e470b86.chunk.css.map",
+    "static/js/2.59b0eca5.chunk.js.LICENSE.txt": "/material-ui-exercise/static/js/2.59b0eca5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0cf5fc19.js",
+    "static/js/runtime-main.1021623c.js",
     "static/js/2.59b0eca5.chunk.js",
-    "static/css/main.6c774188.chunk.css",
-    "static/js/main.a2cf3dfa.chunk.js"
+    "static/css/main.2e470b86.chunk.css",
+    "static/js/main.a257c31f.chunk.js"
   ]
 }
