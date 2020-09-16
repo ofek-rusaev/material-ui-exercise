@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ofek-rusaev/material-ui-exercise/static/css/main.6c774188.chunk.css",
+    "main.js": "/ofek-rusaev/material-ui-exercise/static/js/main.a2cf3dfa.chunk.js",
+    "main.js.map": "/ofek-rusaev/material-ui-exercise/static/js/main.a2cf3dfa.chunk.js.map",
+    "runtime-main.js": "/ofek-rusaev/material-ui-exercise/static/js/runtime-main.0cf5fc19.js",
+    "runtime-main.js.map": "/ofek-rusaev/material-ui-exercise/static/js/runtime-main.0cf5fc19.js.map",
+    "static/js/2.59b0eca5.chunk.js": "/ofek-rusaev/material-ui-exercise/static/js/2.59b0eca5.chunk.js",
+    "static/js/2.59b0eca5.chunk.js.map": "/ofek-rusaev/material-ui-exercise/static/js/2.59b0eca5.chunk.js.map",
+    "index.html": "/ofek-rusaev/material-ui-exercise/index.html",
+    "precache-manifest.e948dc25f24410c9480d96a92e69a4c8.js": "/ofek-rusaev/material-ui-exercise/precache-manifest.e948dc25f24410c9480d96a92e69a4c8.js",
+    "service-worker.js": "/ofek-rusaev/material-ui-exercise/service-worker.js",
+    "static/css/main.6c774188.chunk.css.map": "/ofek-rusaev/material-ui-exercise/static/css/main.6c774188.chunk.css.map",
+    "static/js/2.59b0eca5.chunk.js.LICENSE.txt": "/ofek-rusaev/material-ui-exercise/static/js/2.59b0eca5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0cf5fc19.js",
+    "static/js/2.59b0eca5.chunk.js",
+    "static/css/main.6c774188.chunk.css",
+    "static/js/main.a2cf3dfa.chunk.js"
+  ]
+}
