@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/material-ui-exercise/static/css/main.2e470b86.chunk.css",
+    "main.css": "/material-ui-exercise/static/css/main.0eefbeb7.chunk.css",
     "main.js": "/material-ui-exercise/static/js/main.a257c31f.chunk.js",
     "main.js.map": "/material-ui-exercise/static/js/main.a257c31f.chunk.js.map",
     "runtime-main.js": "/material-ui-exercise/static/js/runtime-main.1021623c.js",
@@ -8,15 +8,15 @@
     "static/js/2.59b0eca5.chunk.js": "/material-ui-exercise/static/js/2.59b0eca5.chunk.js",
     "static/js/2.59b0eca5.chunk.js.map": "/material-ui-exercise/static/js/2.59b0eca5.chunk.js.map",
     "index.html": "/material-ui-exercise/index.html",
-    "precache-manifest.4cbca8ec9e97ee0635bab27812f6d072.js": "/material-ui-exercise/precache-manifest.4cbca8ec9e97ee0635bab27812f6d072.js",
+    "precache-manifest.49f230727baf288fdd273e05b82e23ea.js": "/material-ui-exercise/precache-manifest.49f230727baf288fdd273e05b82e23ea.js",
     "service-worker.js": "/material-ui-exercise/service-worker.js",
-    "static/css/main.2e470b86.chunk.css.map": "/material-ui-exercise/static/css/main.2e470b86.chunk.css.map",
+    "static/css/main.0eefbeb7.chunk.css.map": "/material-ui-exercise/static/css/main.0eefbeb7.chunk.css.map",
     "static/js/2.59b0eca5.chunk.js.LICENSE.txt": "/material-ui-exercise/static/js/2.59b0eca5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1021623c.js",
     "static/js/2.59b0eca5.chunk.js",
-    "static/css/main.2e470b86.chunk.css",
+    "static/css/main.0eefbeb7.chunk.css",
     "static/js/main.a257c31f.chunk.js"
   ]
 }

@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "587fd2796a113afa58733830cabb8bbb",
+    "revision": "3e46262443b23c584e80e1844d87a611",
     "url": "/material-ui-exercise/index.html"
   },
   {
-    "revision": "df99f94750ab3229b93b",
-    "url": "/material-ui-exercise/static/css/main.2e470b86.chunk.css"
+    "revision": "b0fddf35d673fa0aa6be",
+    "url": "/material-ui-exercise/static/css/main.0eefbeb7.chunk.css"
   },
   {
     "revision": "bc2718f1a637d85f1aaf",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/material-ui-exercise/static/js/2.59b0eca5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "df99f94750ab3229b93b",
+    "revision": "b0fddf35d673fa0aa6be",
     "url": "/material-ui-exercise/static/js/main.a257c31f.chunk.js"
   },
   {
